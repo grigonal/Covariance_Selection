@@ -1,2 +1,2 @@
 # Covariance_Selection
-The code will be added soon
+Выложен текст моей ВКР и КР
